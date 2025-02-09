@@ -113,7 +113,7 @@ If another request is sent with a new email but the same phone number:
 #### ✅ Request:
 ```json
 {
-  "email": "bhatatFT@example.com",
+  "email": "Bitespeed@example.com",
   "phoneNumber": "1234567890"
 }
 ```
@@ -123,7 +123,7 @@ If another request is sent with a new email but the same phone number:
 {
   "contact": {
     "primaryContactId": 1,
-    "emails": ["Akashparmar@example.com", "bharatFT@example.com"],
+    "emails": ["Akashparmar@example.com", "Bitespeed@example.com"],
     "phoneNumbers": ["1234567890"],
     "secondaryContactIds": [2]
   }
@@ -156,10 +156,10 @@ bitespeed-backend-task/
 ```
 ---
 ## 📞 Contact
-**Author:**Akash Parmar
+**Author:Akash Parmar
 **Resume:**[link](https://drive.google.com/file/d/1qPFvCZte4BMEGx0ATs1NBl9Bh2TZzcGC/view?usp=drive_link )
-**Email:** akash24parmar@gmail.com  
-
+**Email: akash24parmar@gmail.com  
+---
 ![Screenshot (1219)](https://github.com/user-attachments/assets/bfacaea9-c2f8-4528-84a4-82cdb9092d13)
 ![image](https://github.com/user-attachments/assets/09ccc6db-71a0-4dd9-b78a-dbad9485a744)
 
